@@ -1,0 +1,694 @@
+@charset "ISO-8859-1";
+
+
+/* Style for "Page 2 - M" */
+.page-2 {
+  width: 100%;
+  height: auto;
+}
+
+/* Style for "Background" */
+.background {
+  width: 100%;
+  height: auto;
+  background-image: url('../images/img/Background.png');
+/*   padding: 295px; */
+}
+
+/* Style for "Layer 1 co" */
+.layer-1 {
+/*       padding-left: 271px; */
+/*     padding-right: 271px; */
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+/* Style for "Placeholde" */
+.placeholder-header {
+  width: 100%;
+  height: 200px;
+  background-image: url('../images/img/Placeholder_Header.png');
+}
+
+/* Style for "Detail of" */
+.detail-of-a {
+/*   width: 1348px; */
+/*   height: 900px; */
+background-image: url('../images/img/Detail_of_a_white_brick_wall_texture.png');
+}
+
+/* Style for "Rectangle" */
+.rectangle-1 {
+  width: 450px;
+  height: 722px;
+  border: 1px solid #000000;
+  background-color: #082d47;
+}
+
+/* Style for "Select Com" */
+/* .select-company-banner { */
+/* /*   width: 806px; */ */
+/* /*   height: 600px; */ */
+/*    margin-left: 509px; */
+/*    margin-top: -632px; */
+/*    margin-right: 56px; */
+/*    margin-bottom: 0px; */
+/*    background-image: url('../images/img/Select_Company_Banner_Image_(1).png''); */
+/* } */
+
+
+/* Style for "Rectangle" */
+.rectangle-2 {
+/*   width: 1366px; */
+     height: 64px;
+    background-color: #f5f5f5;
+    /* margin-left: 230px; */
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+}
+
+ul.menu li{
+	display: inline;
+    list-style-type: none;
+}
+
+/* Style for "ORDER CONF" */
+.order-confirmation {
+/*   width: 202px; */
+/*   height: 18px; */
+  color: #aaaaaa;
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 18px;
+  text-align: left;
+  text-decoration: underline;
+  text-transform: uppercase;
+  margin-left: 46px;
+  margin-top: 25px;
+  margin-bottom: 24px;
+}
+/* Text style for "O, RDER CO" */
+.o-rder-confirmation {
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+/* Style for "attention" */
+.attention-copy {
+/*   width: 15px; */
+/*   height: 15px; */
+  background-color: #ff5143;
+  border-radius: 50%;
+  margin-right: 12px;
+}
+
+.my-c-u{
+	margin-left: 89px;
+	margin-top: 25px;
+    margin-bottom: 24px;
+}
+
+/* Style for "Rectangle" */
+.rectangle-3 {
+/*   width: 1366px; */
+/*   height: 216px; */
+  background-color: #ffffff;
+      margin-top: 38px;
+        padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* Style for "Remember!" */
+.remember-let-us {
+/*   width: 446px; */
+/*   height: 19px; */
+  color: #000000;
+  font-family: "Segoe UI - Semibold";
+  font-size: 24px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 18px;
+  text-align: left;
+/*   margin-left: 46px; */
+/*     padding-top: 30px; */
+}
+/* Text style for "R, emember" */
+.r-emember-let {
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+.ul {
+  list-style-image: url('../images/img/genie_bottle_bullet_point.png');
+  margin-left: -10px;
+}
+
+/* Style for "We’ll upda" */
+.we-ll-update {
+/*   width: 257px; */
+/*   height: 16px; */
+  color: #000000;
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 24px;
+  text-align: left;
+}
+/* Text style for "We’ll upda" */
+.we-ll-update {
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+/* Style for "Select a c" */
+.select-a-category {
+/*   width: 306px; */
+/*   height: 16px; */
+  color: #000000;
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 24px;
+  text-align: left;
+}
+/* Text style for "Select a c" */
+.select-a-category {
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+/* Style for "Confirm th" */
+.confirm-the-details {
+/*   width: 182px; */
+/*   height: 13px; */
+  color: #000000;
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 24px;
+  text-align: left;
+}
+/* Text style for "Confirm th" */
+.confirm-the-details {
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+/* Style for "Our team w" */
+.our-team-will {
+/*   width: 918px; */
+/*   height: 16px; */
+  color: #000000;
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-style: italic;
+  letter-spacing: normal;
+  line-height: 24px;
+  text-align: left;
+}
+/* Text style for "Our team w" */
+.our-team-will {
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+/* Style for "Rectangle" */
+.rectangle-4 {
+/*   width: 1366px; */
+  height: 666px;
+  background-color: #ffffff;
+  margin-top: 38px;
+  padding-left: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 40px;
+}
+
+
+/* Style for "Use the dr" */
+.use-the-drop {
+/*   width: 336px; */
+/*   height: 19px; */
+  color: #000000;
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 24px;
+  text-align: left;
+}
+/* Text style for "Use the dr" */
+.use-the-drop {
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+/* Style for "Click the" */
+.click-the-sign {
+/*   width: 320px; */
+/*   height: 19px; */
+  color: #000000;
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 24px;
+  text-align: left;
+}
+/* Text style for "Click the" */
+.click-the-sign {
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+/* Style for "Rounded Re" */
+.rounded-rectangle-1 {
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  border: 2px solid #93c43e;
+  background-color: #ffffff;
+}
+
+/* Style for "Browse sel" */
+.browse-selector {
+/*   width: 1268px; */
+/*   height: 140px; */
+}
+
+/* Style for "Browse" */
+.browse {
+/*   width: 1268px; */
+/*   height: 40px; */
+}
+
+/* Style for "All Catego" */
+.all-categories {
+/*   width: 117px; */
+/*   height: 19px; */
+  color: #054687;
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 24px;
+  text-align: left;
+}
+/* Text style for "A, ll Cate" */
+.a-ll-categories {
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+/* Style for "Top 5 resu" */
+.top-5 {
+/*   width: 1366px; */
+/*   height: 431px; */
+      margin-top: 69px;
+}
+
+/* Style for "Top 5 Most" */
+.top-5-1 {
+  width: 366px;
+  height: 24px;
+  color: #000000;
+  font-family: "Segoe UI - Semibold";
+  font-size: 24px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 18px;
+  text-align: left;
+}
+/* Text style for "T, op 5 Mo" */
+.t-op-5 {
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+/* Style for "In:  ALL C" */
+.in-all-categories {
+  width: 168px;
+  height: 14px;
+  color: #93c43e;
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 24px;
+  text-align: left;
+}
+/* Text style for "In:" */
+.in {
+  color: #000000;
+  font-family: "Segoe UI 8";
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+/* Text style for "" */
+.layer {
+  color: #000000;
+  font-family: "Segoe UI 8";
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+/* Text style for "ALL CATEGO" */
+.all-categories {
+  font-family: "Segoe UI 8";
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+/* Style for "Citibank (" */
+.citibank-added-view {
+/*   width: 1271px; */
+/*   height: 40px; */
+}
+
+/* Style for "Rounded Re" */
+.rounded{
+/* 	height: 40px; */
+	border-radius: 5px;
+/* 	margin-top: 15px; */
+	display: flex;
+	width:90%;
+}
+.top-5 .row{
+    display: flex !important;
+     margin: 15px;
+}
+.rectangle1 {
+  background-color: #93c43e;
+}
+.rounded-end{
+	margin-top: 0 !important;
+	margin-left: 10px;
+    border-radius: 5px;
+}
+.rectangle2{
+	background-color: #b8b8b8;
+}
+.rounded p{
+	color: #ffffff;
+    font-family: "Segoe UI - Semibold";
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: 24px;
+    text-align: left;
+    text-transform: uppercase;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
+.end-rectangle{
+	    float: right;
+}
+/* Style for "Companies" */
+.companies-we-ll {
+/*   width: 1402px; */
+/*   height: 257px; */
+  background-color: #ffffff;
+      margin-top: 38px;
+          padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+}
+.icon{
+	padding: 7px 15px 7px 15px;
+}
+
+/* Style for "Current Co" */
+.current-companies-we {
+/*   width: 445px; */
+/*   height: 24px; */
+  color: #000000;
+  font-family: "Segoe UI - Semibold";
+  font-size: 24px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 18px;
+  text-align: left;
+}
+/* Text style for "C, urrent" */
+.c-urrent-companies {
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+/* Style for "(you’re wi" */
+.you-re-wish {
+  width: 231px;
+  height: 19px;
+  color: #000000;
+  font-family: "Segoe UI";
+  font-size: 18px;
+  font-style: italic;
+  letter-spacing: normal;
+  line-height: 18px;
+  text-align: left;
+}
+/* Text style for "(" */
+.layer {
+  font-family: "Segoe UI - Semibold";
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+/* Text style for "you’re wis" */
+.you-re-wish {
+  font-family: "Segoe UI 8";
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+  margin-left: 35px;
+}
+
+
+
+
+/* Style for "Save & Con" */
+.save-continue-button {
+  width: 400px;
+  height: 40px;
+}
+
+/* Style for "Button Con" */
+.button-container {
+  width: 400px;
+  height: 40px;
+  box-shadow: 0 2px 1px rgba(0, 0, 0, 0.13);
+  border-radius: 5px;
+  border: 2px solid #054687;
+  background-color: #93c43e;
+      margin-top: 38px;
+      display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Style for "Save & Con" */
+.save-continue {
+
+  color: #ffffff;
+  font-family: "Segoe UI - Semibold";
+  font-size: 24px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 18px;
+  text-align: center;
+}
+/* Text style for "S, ave & C" */
+.s-ave-continue {
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+.centerBtn{
+	    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+
+/* Style for "Row 5 cont" */
+.row-5 {
+/*   width: 1365px; */
+	height: 227px;
+    background-color: #ffffff;
+    margin-top: 97px;
+}
+
+.row{
+     display: table;
+    width: 100%;
+}
+
+.col-sm-4{
+  display: table-cell;
+/*   padding: 16px; */
+}
+.col-sm-8{
+  display: table-cell;
+/*   padding: 16px; */
+}
+
+/* Style for "The good f" */
+.the-good-folks {
+/*   width: 358px; */
+/*   height: 36px; */
+  color: #000000;
+  font-family: "Segoe UI";
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 20px;
+  text-align: left;
+}
+/* Text style for "The good f" */
+.the-good-folks {
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+/* Style for "Might not" */
+.might-not-either {
+/*   width: 401px; */
+/*   height: 36px; */
+  color: #000000;
+  font-family: "Segoe UI";
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 20px;
+  text-align: left;
+}
+/* Text style for "Might not" */
+.might-not-either {
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+/* Text style for "never" */
+.never {
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+
+/* Style for "Ad - Nobod" */
+.ad-nobody-ever {
+  width: 877px;
+  height: 226px;
+}
+
+/* Style for "We’re Here" */
+.we-re-here {
+  width: 326px;
+  height: 44px;
+  color: #000000;
+  font-family: "Segoe UI - Semibold";
+  font-size: 20px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 24px;
+  text-align: left;
+}
+/* Text style for "W, e’re He" */
+.w-e-re {
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+.companies{
+    display: flex !important;
+    margin: 15px;
+}
+.current-company{
+	border-radius: 5px;
+    border: 2px solid #93c43e;
+    background-color: #ebebeb;
+    display: flex;
+    width:85%;
+}
+.current-company-end{
+	border-radius: 5px;
+     margin-left: 10px;
+     width:15%;
+}
+.current-company p{
+/* Style for "Citibank" */
+
+color: #000000;
+font-family: "Segoe UI - Semibold";
+font-size: 16px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 18px;
+text-align: left;
+/* Text style for "Citibank" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+.first-class, .second-class{
+	margin: 15px;
+}
+.row-class{
+	
+}
+/* Style for "Footer" */
+.footer {
+/*   width: 1920px; */
+  height: 400px;
+  margin-top: 99px;
+  border: 1px solid #000000;
+   background-color: #082d47;
+}
+
